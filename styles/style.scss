@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.modal-form-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.add-farm-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.modal-button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
